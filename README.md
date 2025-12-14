@@ -27,21 +27,10 @@
 
 ### 🚀 Featured Engineering Projects
 
-#### 1. 🧬 Pharmaceutical Property Predictor (ChemBERT)
-*Fine-tuned BERT model for predicting molecular properties, reducing screening time from weeks to minutes.*
-* **Tech:** Python, PyTorch, Transformers.
-* **Impact:** PoC demonstrated 98% reduction in screening latency.
-* [**View Code**](#) *(Link this to your repo)*
-
-#### 2. 🏥 Clinical LLM Assistant (RAG)
-*Retrieval-Augmented Generation system ingesting PubMed & Mayo Clinic data for differential diagnosis.*
-* **Tech:** LangChain, VectorDB (Chroma/Pinecone), Llama 3.
-* **Status:** Research PoC.
-* [**View Code**](#) *(Link this to your repo)*
-
-#### 3. 🏭 Industrial Anomaly Detection
-*Hybrid Unsupervised + LLM architecture to identify root causes of tire manufacturing faults.*
-* **Tech:** Scikit-Learn, Anomaly Detection, Explainable AI (XAI).
+#### 1. 🧬 TBD
+* *
+* **Tech:** MATLAB.
+* **Impact:**  .
 * [**View Code**](#) *(Link this to your repo)*
 
 ---
