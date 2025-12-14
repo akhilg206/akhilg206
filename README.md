@@ -25,16 +25,4 @@
 
 ---
 
-### 🚀 Featured Engineering Projects
 
-#### 1. 🧬 TBD
-* *
-* **Tech:** MATLAB.
-* **Impact:**  .
-* [**View Code**](#) *(Link this to your repo)*
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akhilg206&show_icons=true&theme=minimal&hide_border=true" alt="Akhil's Stats" />
-</div>
